@@ -25,9 +25,9 @@ Para este projeto, utilizei as seguintes tecnologias:
 Segue abaixo mais algumas imagens:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/373e3ddb-7413-4f15-b6cc-46244140b45b" />
+  <img src="https://github.com/user-attachments/assets/eb17e239-21ed-4d5a-9f76-f200a5b7f670" />
   <img src="https://github.com/user-attachments/assets/4591f78a-f737-4cf3-bc5f-72d86e796078" />
-  <img src="https://github.com/user-attachments/assets/9400e92f-2484-49ee-a712-dba1fe48cdaa" />
+  <img src="https://github.com/user-attachments/assets/6d8345c1-754a-4dbc-a6b2-48d5533e76b3" />
 </div>
 
 # Instruções e observações:

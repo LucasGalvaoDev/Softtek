@@ -1,0 +1,6 @@
+[
+  { "codigo": "1", "nomeCompleto": "Ana Lima",   "dtNasc": "2000-06-05" },
+  { "codigo": "2", "nomeCompleto": "João Silva", "dtNasc": "1992-11-25" },
+  { "codigo": "3", "nomeCompleto": "Lucas Galvão", "dtNasc": "1998-05-08" },
+  { "codigo": "4", "nomeCompleto": "Juan Silveira", "dtNasc": "1990-05-02" }
+]

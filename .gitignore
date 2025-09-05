@@ -1,0 +1,72 @@
+# =========================
+# OS / Editores
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.orig
+.idea/
+.vscode/
+*.code-workspace
+
+# =========================
+# Frontend (Vite / React / TS)
+# =========================
+node_modules/
+dist/
+dist-ssr/
+build/
+.vite/
+.cache/
+coverage/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tsbuildinfo
+
+# Variáveis de ambiente
+.env.local
+.env.*.local
+.envrc
+
+# =========================
+# Backend (.NET / Visual Studio)
+# =========================
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+TestResult*/
+*.coverage
+*.coveragexml
+*.trx
+
+# NuGet (cache antigo de packages)
+**/packages/*
+!**/packages/build/
+
+# ReSharper / Rider
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+.idea/
+
+# Publicação / MSBuild
+*.pubxml.user
+*.publishsettings
+
+# Certificados / chaves
+*.pfx
+*.p12
+*.p7b
+*.snk
+
+# App settings locais
+appsettings.*.local.json
+local.settings.json

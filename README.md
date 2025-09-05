@@ -57,6 +57,9 @@ Frontend:
 Para o front basta instalar os pacotes que e iniciarlizar o projeto seguindo os comandos abaixo:
 
 cd frontend ## Entra na pasta de front
+
 npm i ## Instala pacotes
+
 npm i -D @vitejs/plugin-react ## Instala o plugin do Vite para React como dependência de desenvolvimento
+
 npm run dev ## Roda o código

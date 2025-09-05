@@ -13,7 +13,7 @@ export default function PatientForm() {
     try {
       await addPatient({
         nome: nome.trim(),
-        dataNascimento: dataNascimento || null
+        dataNascimento: dataNascimento
       }).unwrap()
 
       setNome('')

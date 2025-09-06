@@ -46,7 +46,7 @@ Backend:
 
 Para inicializar a API devemos usar a seguinte linha de comando dentro da pasta que de backend:
 
-dotnet run --project "<caminho>\projeto softtek\backend\ApiPacientes\ApiPacientes\ApiPacientes.csproj" --urls "https://localhost:7129"
+dotnet run --project "[caminho]\projeto softtek\backend\ApiPacientes\ApiPacientes\ApiPacientes.csproj" --urls "https://localhost:7129"
 
 Para acessar o swagger basta utilizar o link acima como informado (https://localhost:7129/swagger)
 
